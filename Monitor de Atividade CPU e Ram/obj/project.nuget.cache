@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZqHwxlG4AX7iZS/G9PE2N7FRRbNJ9NMLXZmuZ5q8UdOzeaYxO4Z/B7D5vivSFA8FUgRJvMqkPXPVPDTWnRoKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleit\\OneDrive\\Área de Trabalho\\Estudos\\Monitor de Atividade GPU e CPU\\Monitor de Atividade GPU e CPU\\Monitor de Atividade GPU e CPU.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleit\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

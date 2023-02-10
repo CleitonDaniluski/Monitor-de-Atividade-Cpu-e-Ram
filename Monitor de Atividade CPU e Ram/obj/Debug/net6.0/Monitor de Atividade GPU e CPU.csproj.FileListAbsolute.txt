@@ -1,0 +1,36 @@
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.csproj.AssemblyReference.cache
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.AssemblyInfoInputs.cache
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.AssemblyInfo.cs
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.csproj.CoreCompileInputs.cache
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\Monitor de Atividade GPU e CPU.exe
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\Monitor de Atividade GPU e CPU.deps.json
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\Monitor de Atividade GPU e CPU.runtimeconfig.json
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\Monitor de Atividade GPU e CPU.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\Monitor de Atividade GPU e CPU.pdb
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.csproj.CopyComplete
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\refint\Monitor de Atividade GPU e CPU.dll
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.pdb
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.genruntimeconfig.cache
+C:\Users\cleit\source\repos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\ref\Monitor de Atividade GPU e CPU.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.csproj.AssemblyReference.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.AssemblyInfoInputs.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.AssemblyInfo.cs
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.csproj.CoreCompileInputs.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\refint\Monitor de Atividade GPU e CPU.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Monitor de Atividade GPU e CPU\Monitor de Atividade GPU e CPU\obj\Debug\net6.0\Monitor de Atividade GPU e CPU.pdb
